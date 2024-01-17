@@ -48,6 +48,9 @@ PLAN OF ACTION
 images:
 ![WhatsApp Image 2024-01-17 at 16 09 28_a368ae12](https://github.com/aashish1malik/fashion-recommendations-system-/assets/144604675/24c830c3-0748-4f53-a543-e2b7978436b1)
 ![WhatsApp Image 2024-01-17 at 16 09 28_daa73781](https://github.com/aashish1malik/fashion-recommendations-system-/assets/144604675/14e031de-b74f-4e77-81ec-b4c6909e4e31)
+![WhatsApp Image 2024-01-17 at 22 13 23_afc09ff5](https://github.com/aashish1malik/fashion-recommendations-system-/assets/144604675/f7cf0e6f-c309-457b-804e-b399165ec60f)
+![WhatsApp Image 2024-01-17 at 22 14 08_c523c89d](https://github.com/aashish1malik/fashion-recommendations-system-/assets/144604675/c90f518f-3333-4195-a8b6-26737b980e5d)
+
 
 
 RESULT VEDIO:
